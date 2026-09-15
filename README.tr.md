@@ -1,6 +1,7 @@
 <div align="right">
   <a href="README.md" title="English"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=us" alt="English"/></a>
   <a href="README.tr.md" title="Türkçe"><img src="https://img.shields.io/badge/Türkçe-red?style=for-the-badge&logo=tr" alt="Türkçe"/></a>
+  <img src="https://img.shields.io/badge/📍_Japan-Asia/Tokyo_(UTC+9)-black?style=for-the-badge" alt="Japan"/>
 </div>
 <div align="center">
   <img src="./.github/assets/header.svg" alt="Yazma Efekti" />
@@ -36,10 +37,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
   <br/>
-  <img src="https://wttr.in/Istanbul.png?m&lang=tr" alt="İstanbul Hava Durumu" />
+  <img src="https://wttr.in/Tokyo.png?m&lang=en" alt="Tokyo Weather" />
 </div>
 
-Ben, **Yönetim Bilişim Sistemleri Öğrencisi** ve **Full Stack Geliştiriciyim**, **Siber Güvenlik** ve **Backend Mimarisi** konularına tutkulu biriyim. Bir şeylerin nasıl çalıştığını anlamak için onları kırmayı ve ardından daha güvenli hale getirmek için onarmayı seviyorum.
+Merhaba, ben **Erina Ono** — **Japonya**'dan bir **Full Stack Geliştirici** ve **Siber Güvenlik** meraklısıyım. Bir şeylerin nasıl çalıştığını anlamak için onları kırmayı ve ardından daha güvenli hale getirmek için onarmayı seviyorum.
 
 - 🔭 Şu anda **Full Stack Python & React Projeleri** üzerinde çalışıyorum
 - 🌱 **Siber Güvenlik, Sızma Testleri & Backend Mimarisi** öğreniyorum
@@ -161,23 +162,6 @@ Ben, **Yönetim Bilişim Sistemleri Öğrencisi** ve **Full Stack Geliştiriciyi
     <img alt="yılan animasyonu" src="https://raw.githubusercontent.com/ErinaOno420/ErinaOno420/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-## 🔗 Benimle İletişime Geçin
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ErinaOno420" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Kahve Ismarla" height="50" width="200" />
-  </a>
-</div>
-
-| Platform | Bağlantı |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyupzekisalihoglu) |
-| **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ErinaOno420p) |
-| **Medium** | [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eyupzekisalihoglu) |
-| **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Erina3079@outlook.com) |
 
 ---
 

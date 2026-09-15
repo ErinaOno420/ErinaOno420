@@ -1,6 +1,7 @@
 <div align="right">
   <a href="README.md" title="English"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=us" alt="English"/></a>
   <a href="README.tr.md" title="Türkçe"><img src="https://img.shields.io/badge/Türkçe-red?style=for-the-badge&logo=tr" alt="Türkçe"/></a>
+  <img src="https://img.shields.io/badge/📍_Japan-Asia/Tokyo_(UTC+9)-black?style=for-the-badge" alt="Japan"/>
 </div>
 <div align="center">
   <img src="./.github/assets/header.svg" alt="Typing Effect" />
@@ -35,7 +36,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </div>
 
-I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the gap between building robust applications and securing them. Scaling ideas from backend architecture to frontend interactivity is my playground.
+Hi, I'm **Erina Ono** — a **Full Stack Developer** from **Japan**, and a **Cybersecurity Enthusiast**. I bridge the gap between building robust applications and securing them. Scaling ideas from backend architecture to frontend interactivity is my playground.
 
 - 🔭 I’m currently working on **Full Stack Python & React Projects**
 - 🌱 Learning **Cybersecurity, Penetration Testing & Backend Architecture**
@@ -62,7 +63,7 @@ I'm a **Full Stack Developer** and **Cybersecurity Enthusiast**. I bridge the ga
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErinaOno420&theme=tokyonight" alt="Profile Details" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErinaOno420&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErinaOno420&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErinaOno420&theme=tokyonight&utcOffset=9" alt="Productive Time" />
 </div>
 
 ---
@@ -142,23 +143,6 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
     <img alt="snake animation" src="https://raw.githubusercontent.com/ErinaOno420/ErinaOno420/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ErinaOno420" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="200" />
-  </a>
-</div>
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyupzekisalihoglu) |
-| **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ErinaOno420p) |
-| **Medium** | [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eyupzekisalihoglu) |
-| **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Erina3079@outlook.com) |
 
 ---
 
@@ -243,10 +227,10 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 ## 🌍 Location & Timezone
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location-İstanbul,_Türkiye-1a1b27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🕐_Timezone-UTC+3_(Europe/Istanbul)-1a1b27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Location-Japan-1a1b27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🕐_Timezone-UTC+9_(Asia/Tokyo)-1a1b27?style=for-the-badge" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/☕_Best_Coding_Hours-22:00_--_04:00-4a4a4a?style=flat-square" />
+  <img src="https://img.shields.io/badge/☕_Best_Coding_Hours-21:00_--_02:00_JST-4a4a4a?style=flat-square" />
   <img src="https://img.shields.io/badge/📅_Available-Weekdays_&_Weekends-4a4a4a?style=flat-square" />
 </div>
 

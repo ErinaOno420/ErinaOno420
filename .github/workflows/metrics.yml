@@ -17,7 +17,7 @@ jobs:
           user: ErinaOno420
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Istanbul
+          config_timezone: Asia/Tokyo
           config_theme: light
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -41,7 +41,7 @@ jobs:
           user: ErinaOno420
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Istanbul
+          config_timezone: Asia/Tokyo
           config_theme: dark
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
