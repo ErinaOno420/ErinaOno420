@@ -61,15 +61,6 @@ Merhaba, ben **Erina Ono** — **Japonya**'dan bir **Full Stack Geliştirici** v
 
 ---
 
-<!-- Ölçümler Bölümü -->
-<div align="center">
-  <h2>📊 Detaylı Ölçümler</h2>
-  <img src="https://raw.githubusercontent.com/ErinaOno420/ErinaOno420/main/github-metrics.svg" alt="Ölçümler" width="100%">
-  <!-- Not: Bu görsel metrics workflow'u ilk kez başarılı bir şekilde çalıştıktan sonra görünecektir -->
-</div>
-
----
-
 ## 🛠️ Teknoloji Yığını
 
 ### Backend & Veritabanı
@@ -88,58 +79,6 @@ Merhaba, ben **Erina Ono** — **Japonya**'dan bir **Full Stack Geliştirici** v
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,pycharm,webstorm,postman,arduino&perline=10" />
-</div>
-
----
-
-## 🏆 Öne Çıkan Projeler
-
-<div align="center">
-  <a href="https://github.com/ErinaOno420/CyberGuard_AI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErinaOno420&repo=CyberGuard_AI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ErinaOno420/Tasklytic">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErinaOno420&repo=Tasklytic&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ErinaOno420/django_portfolyo">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErinaOno420&repo=django_portfolyo&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analizleri
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ErinaOno420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ErinaOno420&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErinaOno420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub istatistikleri" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErinaOno420&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErinaOno420&layout=compact&theme=default&hide_border=true">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErinaOno420&layout=compact&theme=tokyonight&hide_border=true" alt="En iyi diller" />
-  </picture>
-</div>
-
-<div align="center">
-  <h3>🧠 Algoritma Ustalığı</h3>
-  <!-- LeetCode kullanıcı adınızı buraya yazın -->
-  <!-- <img src="https://leetcard.jacoblin.cool/ErinaOno420?theme=tokyonight&font=Source%20Code%20Pro" alt="Algoritma Ustalığı" /> -->
-  <!-- LEETCODE HATASI: 'ErinaOno420' kullanıcı adı bulunamadı. Lütfen yukarıdaki linkte kullanıcı adınızı düzeltip yorum satırını kaldırın. -->
-</div>
-
-<div align="center">
-  <!-- Satranç kullanıcı adınızı buraya yazın -->
-  <!-- <img src="https://github-readme-chess-stats.vercel.app/api?username=ErinaOno420&theme=tokyonight&hide_border=true" alt="Satranç İstatistikleri" /> -->
-  <!-- SATRANÇ HATASI: 'ErinaOno420' kullanıcı adı bulunamadı. Lütfen yukarıdaki linkte kullanıcı adınızı düzeltip yorum satırını kaldırın. -->
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErinaOno420&theme=tokyonight&hide_border=true" alt="GitHub Serisi" />
 </div>
 
 ---

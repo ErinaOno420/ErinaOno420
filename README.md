@@ -57,17 +57,6 @@ Hi, I'm **Erina Ono** — a **Full Stack Developer** from **Japan**, and a **Cyb
 
 ---
 
-<!-- Metrics Section -->
-<div align="center">
-  <h2>📊 Detailed Metrics</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErinaOno420&theme=tokyonight" alt="Profile Details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErinaOno420&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErinaOno420&theme=tokyonight&utcOffset=9" alt="Productive Time" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend & Database
@@ -86,50 +75,6 @@ Hi, I'm **Erina Ono** — a **Full Stack Developer** from **Japan**, and a **Cyb
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,pycharm,webstorm,postman,arduino&perline=10" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ErinaOno420/CyberGuard_AI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErinaOno420&repo=CyberGuard_AI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ErinaOno420/Tasklytic">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErinaOno420&repo=Tasklytic&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ErinaOno420/django_portfolyo">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ErinaOno420&repo=django_portfolyo&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ErinaOno420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ErinaOno420&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErinaOno420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErinaOno420&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErinaOno420&layout=compact&theme=default&hide_border=true">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErinaOno420&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </picture>
-</div>
-
-<!-- Algorithm & Chess stats hidden - update usernames to enable
-LeetCode: https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=tokyonight
-Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
--->
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ErinaOno420&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -156,23 +101,6 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
 
 ---
 
-
-## 🎮 Gaming Profile
-
-<div align="center">
-  <a href="https://steamcommunity.com/id/ErinaOno420">
-    <img src="https://img.shields.io/badge/Steam-Profile-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
-  </a>
-  <a href="https://store.epicgames.com/u/ErinaOno420">
-    <img src="https://img.shields.io/badge/Epic%20Games-Profile-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games Profile" />
-  </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🎮_Favorite_Game-Hearts_of_Iron_IV-4a4a4a?style=flat-square" />
-  <img src="https://img.shields.io/badge/⏱️_Hours_Played-500+-4a4a4a?style=flat-square" />
-</div>
-
----
-
 ## 🏅 Certifications
 
 <div align="center">
@@ -187,18 +115,6 @@ Chess: https://github-readme-chess-stats.vercel.app/api?username=YOUR_USERNAME
   </a>
   <br/><br/>
   <img src="https://img.shields.io/badge/📚_Currently_Studying-AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazon" />
-</div>
-
----
-
-## 🌆 GitHub Skyline 2026
-
-<div align="center">
-  <a href="https://skyline.github.com/ErinaOno420/2026">
-    <img src="https://img.shields.io/badge/View_My_3D_Skyline-2026-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2026" />
-  </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🏙️_Contributions-Building_My_City-4a4a4a?style=flat-square" />
 </div>
 
 ---
