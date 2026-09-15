@@ -7,7 +7,7 @@
   <img src="./.github/assets/header.svg" alt="Yazma Efekti" />
   <br/>
   <a href="mailto:Erina3079@outlook.com">
-    <img src="https://img.shields.io/badge/Durum-İş%20Arıyor-success?style=for-the-badge&logo=clockify" alt="İş Arıyor"/>
+    <img src="https://img.shields.io/badge/Durum-Remote%20%26%20Freelance-success?style=for-the-badge&logo=clockify" alt="Remote & Freelance"/>
   </a>
 </div>
 </div>
@@ -24,40 +24,24 @@
 
 ---
 
-<div align="center">
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErinaOno420&theme=tokyonight" alt="Kupalar" />
-</div>
-</div>
-
----
-
 ## 🚀 Hakkımda
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-  <br/>
-  <img src="https://wttr.in/Tokyo.png?m&lang=en" alt="Tokyo Weather" />
-</div>
+**Erina Ono** — Senior Full-Stack Developer
 
-Merhaba, ben **Erina Ono** — **Japonya**'dan bir **Full Stack Geliştirici** ve **Siber Güvenlik** meraklısıyım. Bir şeylerin nasıl çalıştığını anlamak için onları kırmayı ve ardından daha güvenli hale getirmek için onarmayı seviyorum.
+`Senior Full-Stack Developer | React · TypeScript · Node.js`
 
-- 🔭 Şu anda **Full Stack Python & React Projeleri** üzerinde çalışıyorum
-- 🌱 **Siber Güvenlik, Sızma Testleri & Backend Mimarisi** öğreniyorum
-- 👯 **Açık Kaynak Python/Güvenlik Araçları** üzerinde işbirliğine açığım
-- ⚡ Eğlenceli gerçek: **Bir şeyleri daha iyi düzeltmek için bozarım**
+✦ **AVAILABLE FOR REMOTE & FREELANCE PROJECTS**
 
-<!-- Siber Güvenlik Rozetleri -->
-<div align="center">
-  <h3>🛡️ Siber Güvenlik Profili</h3>
-  <a href="https://app.hackthebox.com/profile/ErinaOno420">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profil-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="HackTheBox Profili" />
-  </a>
-  <!-- TryHackMe kullanıcı adınızı buraya yazın -->
-  <a href="https://tryhackme.com/p/ErinaOno420">
-    <img src="https://img.shields.io/badge/TryHackMe-Profil-161e2d?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profili" />
-  </a>
-</div>
+Japonya merkezli Senior Full-Stack Developer. 6+ yıllık deneyimle ölçeklenebilir web uygulamaları, SaaS ürünleri ve uluslararası ekipler için müşteri odaklı platformlar geliştiriyorum. React, TypeScript, Node.js ve modern cloud delivery konularında güçlüyüm. Temiz mimari, güvenilir freelance teslimat ve İngilizce–Japonca paydaşlarla net iletişim ile performans, dönüşüm ve yayın kalitesinde ölçülebilir etki yaratırım.
+
+### 🌐 Diller
+
+| Dil | Seviye |
+| :--- | :--- |
+| **English** | Native / Bilingual |
+| **Japanese** | Native / Bilingual |
+| **Spanish** | Advanced |
+| **Portuguese** | Advanced |
 
 ---
 
@@ -100,16 +84,6 @@ Merhaba, ben **Erina Ono** — **Japonya**'dan bir **Full Stack Geliştirici** v
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErinaOno420/ErinaOno420/output/github-contribution-grid-snake.svg">
     <img alt="yılan animasyonu" src="https://raw.githubusercontent.com/ErinaOno420/ErinaOno420/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
----
-
-<div align="center">
-  <h3>✨ Günün Sözü</h3>
-  <img src="./.github/assets/quote.svg" alt="Söz" />
-  <br/>
-  <!-- Günlük Şaka -->
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Yazılımcı Şakası" />
 </div>
 
 ---

@@ -7,7 +7,7 @@
   <img src="./.github/assets/header.svg" alt="Typing Effect" />
   <br/>
   <a href="mailto:Erina3079@outlook.com">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=clockify" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Remote%20%26%20Freelance-success?style=for-the-badge&logo=clockify" alt="Available for Remote & Freelance"/>
   </a>
 </div>
 </div>
@@ -24,36 +24,24 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=ErinaOno420&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
-</div>
-
----
-
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</div>
+**Erina Ono** — Senior Full-Stack Developer
 
-Hi, I'm **Erina Ono** — a **Full Stack Developer** from **Japan**, and a **Cybersecurity Enthusiast**. I bridge the gap between building robust applications and securing them. Scaling ideas from backend architecture to frontend interactivity is my playground.
+`Senior Full-Stack Developer | React · TypeScript · Node.js`
 
-- 🔭 I’m currently working on **Full Stack Python & React Projects**
-- 🌱 Learning **Cybersecurity, Penetration Testing & Backend Architecture**
-- 👯 Open to collaborating on **Open Source Python/Security Tools**
-- ⚡ Fun fact: **I break things just to fix them better**
+✦ **AVAILABLE FOR REMOTE & FREELANCE PROJECTS**
 
-<!-- Cybersecurity Badges -->
-<div align="center">
-  <h3>🛡️ Cybersecurity Profile</h3>
-  <a href="https://app.hackthebox.com/profile/ErinaOno420">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="HackTheBox Profile" />
-  </a>
-  <!-- CHANGE username "ErinaOno420" to your actual TryHackMe username -->
-  <a href="https://tryhackme.com/p/ErinaOno420">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-161e2d?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
-  </a>
-</div>
+Senior Full-Stack Developer based in Japan with 6+ years of experience building scalable web applications, SaaS products, and client-facing platforms for startups and international teams. Strong in React, TypeScript, Node.js, and modern cloud delivery. Known for clean architecture, reliable freelance delivery, and clear communication across English and Japanese stakeholders with measurable impact on performance, conversion, and release quality.
+
+### 🌐 Languages
+
+| Language | Level |
+| :--- | :--- |
+| **English** | Native / Bilingual |
+| **Japanese** | Native / Bilingual |
+| **Spanish** | Advanced |
+| **Portuguese** | Advanced |
 
 ---
 
@@ -91,16 +79,6 @@ Hi, I'm **Erina Ono** — a **Full Stack Developer** from **Japan**, and a **Cyb
 
 ---
 
-<div align="center">
-  <h3>✨ Quote of the Day</h3>
-  <img src="./.github/assets/quote.svg" alt="Quote" />
-  <br/>
-  <!-- Daily Joke -->
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Daily Joke" />
-</div>
-
----
-
 ## 🏅 Certifications
 
 <div align="center">
@@ -115,27 +93,6 @@ Hi, I'm **Erina Ono** — a **Full Stack Developer** from **Japan**, and a **Cyb
   </a>
   <br/><br/>
   <img src="https://img.shields.io/badge/📚_Currently_Studying-AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazon" />
-</div>
-
----
-
-## 💭 Daily Inspiration / Günlük İlham
-
-<div align="center">
-                                                                                                        <!-- DAILY-QUOTE:START -->
-  <table>
-    <tr>
-      <td>🇬🇧</td>
-      <td><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></td>
-      <td>— Harold Abelson</td>
-    </tr>
-    <tr>
-      <td>🇹🇷</td>
-      <td><i>"Önce çalıştır, sonra düzelt, sonra hızlandır."</i></td>
-      <td>— Kent Beck</td>
-    </tr>
-  </table>
-  <!-- DAILY-QUOTE:END -->
 </div>
 
 ---
